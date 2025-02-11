@@ -15,4 +15,4 @@
 
 <hr>
 
-This app is made with [Yii2 Advanced Project Template](http://www.yiiframework.com/) as a skeleton.
+This app is made with [Yii2 Advanced Project Template](https://github.com/yiisoft/yii2-app-advanced) as a skeleton.
