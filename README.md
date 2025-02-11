@@ -2,7 +2,7 @@
     <a href="https://github.com/buzz8year" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/4325095" height="60px">
     </a>
-    <h1 align="left">Mail Dashboard Starter Kit</h1>
+    <h1 align="left">Mailserver dashboard starter kit</h1>
 </p>
 
 <code>yii2-mail2db</code> is an implementation of yii2-based simple mail dashboard with minimal database entities for mails.
